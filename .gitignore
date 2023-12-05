@@ -2,3 +2,8 @@ node_modules
 .env
 .eslintrc.js
 .eslintignore
+user.rest
+notes.rest
+```
+login.rest
+```
